@@ -1,0 +1,9 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.performant-cache-leak.refmap.json",
+    "package": "rmc.mixins.performant_cache_leak.actual",
+    "mixins": [
+        "PathNavigatorMixin",
+        "ServerWorldMixin"
+    ]
+}
